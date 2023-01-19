@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "message": "Тут будут сообщения",
+      "userid": 2,
+      "id": 1
+    },
+    {
+      "message": "Вау",
+      "userid": 1,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "test",
+      "pass": "test"
+    },
+    {
+      "id": 2,
+      "username": "123",
+      "pass": "123"
+    }
+  ]
+}
